@@ -52,7 +52,7 @@ class Status:
 
         # determine if status is good or fail, return right away.
         # here we assume good status is overriding because there
-        # could be messages like "the disruption is resumed..."
+        # could be messages like "the faulty xxx is resumed..."
         for g in self.status_good:
             if(g.strip().lower() in message):
                 return (True, found_line)
