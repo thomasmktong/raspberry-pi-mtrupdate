@@ -2,7 +2,7 @@
 
 by Thomas Tong ([thomastong.me](http://thomastong.me/))
 
-Knowing whether Hong Kong MTR is broken down with a shake, written in Python 3.
+Knowing whether Hong Kong MTR has service disruption with a shake, written in Python 3.
 
 ![Demo](https://raw.githubusercontent.com/thomasmktong/raspberry-pi-mtrupdate/master/screenshot/demo1.gif)
 
